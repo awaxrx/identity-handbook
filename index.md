@@ -12,6 +12,7 @@ things up to date, and make sure to [avoid contributing sensitive information][s
 
 {% component alert type=:info %}
 Internal documentation can be found in our [Internal Login.gov Handbook](https://lg-public.pages.production.gitlab.login.gov/identity-internal-handbook/).
+[Cloudy_Day_Exploit Test]
 {% endcomponent %}
 
 ## Categories
